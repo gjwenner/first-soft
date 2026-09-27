@@ -1,2 +1,2 @@
-# firts-soft
+# first-soft
 Mi primer programa
